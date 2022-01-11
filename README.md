@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Seraclin
-- 👀 I’m interested in computer science
+- 👀 I’m studying computer science at Emory
 - 🌱 I’m currently learning Python
 - ✨ I'm famaliar with Java, MySQL, C#
 - 📫 How to reach me: snlin@emory.edu
