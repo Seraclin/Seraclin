@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Seraclin
+- 👋 Hi, I’m Samantha Lin @Seraclin
 - 👀 I’m studying computer science at Emory
 - 🌱 I’m currently learning Python
 - ✨ I'm famaliar with Java, MySQL, C#
