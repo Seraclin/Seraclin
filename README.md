@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samantha Lin @Seraclin
 - 👀 I’m studying computer science at Emory
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning ASP.NET Core
 - ✨ I'm famaliar with Java, MySQL, C#, Python
 - 📫 How to reach me: snlin@emory.edu
 
