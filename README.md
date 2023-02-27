@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samantha Lin @Seraclin
 - 👀 I’m studying computer science at Emory
-- 🌱 I’m currently learning C and C#
-- ✨ I'm famaliar with Java, MySQL, Python
+- 🌱 I’m currently learning C++
+- ✨ I'm famaliar with Java, MySQL, Python, C#
 - 📫 How to reach me: snlin@emory.edu
 
 <!---
