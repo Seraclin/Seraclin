@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samantha Lin @Seraclin
-- 👀 I’m studying computer science at Emory
-- 🌱 I’m currently learning Javascript, React, Next.js
+- 👀 I’m looking for work
+- 🌱 I’m currently learning C++
 - ✨ I'm famaliar with Java, MySQL, Python, C#
 - 📫 How to reach me: sampster@gmail.com
 <!---
