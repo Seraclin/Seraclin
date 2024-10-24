@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samantha Lin @Seraclin
+- 👋 Hi, I’m @Seraclin
 - 👀 I’m looking for work
 - 🌱 I’m currently learning C++
 - ✨ I'm famaliar with Java, MySQL, Python, C#, Javascript
